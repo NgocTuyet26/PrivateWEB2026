@@ -1,0 +1,19 @@
+header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: cadetblue;
+}
+
+.tittle {
+  display: flex;
+  flex-direction: column;
+  padding: 8px 0px;
+}
+.tittle .dam {
+  font-size: 30px;
+  font-weight: 200;
+}
+.tittle1 span {
+  margin: 60px;
+}
