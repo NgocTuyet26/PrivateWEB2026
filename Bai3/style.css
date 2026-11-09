@@ -1,0 +1,35 @@
+.he {
+  color: red;
+  background-color: aquamarine;
+
+  text-decoration: underline;
+  text-align: center;
+
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 60px;
+  font-weight: 500;
+  font-style: italic;
+}
+.name {
+  color: bisque;
+  background-color: pink;
+}
+a {
+  color: pink;
+  font-size: 30px;
+  text-decoration: none;
+}
+
+/* 
+font-size: mac dinh 32px;
+font-family: ho chu 
+font-weight: do dam kieu chu(100-900)
+font-style: italic(nghieng), 
+
+text-decoration: none/underline/line-through;
+text-transform: lowercase/capitaliz/uppercase
+text-justyfy: 
+
+
+
+*/
